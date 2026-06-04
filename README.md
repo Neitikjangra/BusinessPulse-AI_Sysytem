@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-The AI Sales & Demand Forecasting System is a Machine Learning-powered solution designed to predict future sales and product demand using historical business data.
+The BusinessPulse-AI System is a Machine Learning-powered solution designed to predict future sales and product demand using historical business data.
 
 Businesses often struggle with inventory planning, cash flow management, workforce allocation, and demand uncertainty. This project leverages data analytics and forecasting models to transform historical sales records into actionable business insights.
 
